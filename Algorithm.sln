@@ -21,6 +21,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HeapSort", "HeapSort\HeapSo
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RedBlackTree", "RedBlackTree\RedBlackTree.vcxproj", "{8FB4DC07-83FC-4691-8999-577A6F5A3842}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AStarPathFinding", "AStarPathFinding\AStarPathFinding.vcxproj", "{9ECD9659-E6B5-43C8-843A-CD9EDDC5D69F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -63,6 +65,10 @@ Global
 		{8FB4DC07-83FC-4691-8999-577A6F5A3842}.Debug|x64.Build.0 = Debug|x64
 		{8FB4DC07-83FC-4691-8999-577A6F5A3842}.Release|x64.ActiveCfg = Release|x64
 		{8FB4DC07-83FC-4691-8999-577A6F5A3842}.Release|x64.Build.0 = Release|x64
+		{9ECD9659-E6B5-43C8-843A-CD9EDDC5D69F}.Debug|x64.ActiveCfg = Debug|x64
+		{9ECD9659-E6B5-43C8-843A-CD9EDDC5D69F}.Debug|x64.Build.0 = Debug|x64
+		{9ECD9659-E6B5-43C8-843A-CD9EDDC5D69F}.Release|x64.ActiveCfg = Release|x64
+		{9ECD9659-E6B5-43C8-843A-CD9EDDC5D69F}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

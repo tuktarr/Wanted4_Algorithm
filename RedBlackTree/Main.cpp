@@ -1,5 +1,4 @@
 #include <iostream>
-
 struct Node
 {
 	Node* parent = nullptr;
